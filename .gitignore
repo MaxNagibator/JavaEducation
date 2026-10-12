@@ -1,0 +1,17 @@
+# Maven
+target/
+.m2/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Local configuration and logs
+.env
+*.log
+hs_err_pid*
+
+# Operating system files
+.DS_Store
+Thumbs.db
